@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MABLIANG
-- 👀 I’m interested in ... customer advocacy, voice of the customer, health & fitness, and credit card point travel
-- 🌱 I’m currently learning ... how to perfect latte art, lift heavier weights & become stronger, and human psycology!
-- 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... 
+- 👀 I’m passionate about ... forming community, sharing experiences with other, and creating safe spaces for all.
+- 🌱 I’m currently learning ... how to perfect sourdough, run a marathon, and maintain adult friendships!
+- 💞️ I’m looking to collaborate on ... creating local events and meet-ups.
+
 
 <!---
 MABLIANG/MABLIANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
